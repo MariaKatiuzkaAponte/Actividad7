@@ -1,0 +1,40 @@
+body {
+
+text-align: center;
+
+background-color: darkgray;
+
+font-family: Century;
+
+}
+
+h1 {
+
+color: rgb(184, 44, 133);
+    
+background-color: white;
+font-size: 35px;
+
+}
+
+.parrafo1 {
+
+background-color: white;
+
+font-size: 20px;
+
+}
+
+.parrafo2 {
+
+    font-size: 20px;
+}
+
+h2{
+
+    font-size: 25px;
+    
+}
+
+
+
